@@ -3,13 +3,9 @@ This repo contains all the code and articles about the Ansible Automation Hydera
 
 #### Agenda:
 
-1. Introduction to Ansible
-2. Ansible Architecture
-3. Ansible Core Components
-4. Ansible Ad-hoc commands
-5. Ansible Basics Playbook
-6. Ansible Windows Automation (win_ping, Win_chocolatey, win_update)
-7. Ansible Roles
-8. Ansible Introduction to AWX (An Upstream of Ansible Tower)
-9. Ansible Q & A
-10. [What's Next?](Whats_Next.md)
+1. [Ansible installation](installation.md)
+2. [Ansible Ad-hoc commands](ad-hoc.md)
+3. [Ansible Basics Playbook](playbook.md)
+4. [Ansible Windows Automation](windows.md)
+5. [Ansible Roles](roles.md)
+6. [What's Next?](Whats_Next.md)
