@@ -8,9 +8,9 @@ https://github.com/ansible/ansible/blob/devel/examples/scripts/ConfigureRemoting
 1. install pywinrm package 
 2. Prepare group_vars/all.yml file ( credentials file )
 ```
-ansible_user=Administratorm
+ansible_user=Administrator
 ansible_connection=winrm
-ansible_port=5986
+ansible_port=5985
 ansible_winrm_transport=basic
 ansible_winrm_server_cert_validation=ignore
 ```
